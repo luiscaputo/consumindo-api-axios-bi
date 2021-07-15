@@ -5,6 +5,10 @@
   "repository": "https://github.com/luiscaputo/consumindo-api-axios-bi.git",
   "author": "luiscaputo <luiscaputo15@gmail.com>",
   "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
     "axios": "^0.21.1"
   }
